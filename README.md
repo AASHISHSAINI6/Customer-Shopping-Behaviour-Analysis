@@ -58,5 +58,3 @@ If you enjoyed this project and want to keep learning and growing as a data anal
 💼 LinkedIn: [Aashish Saini](https://www.linkedin.com/in/aashish-saini-4460022a9/)
 - Let’s connect professionally and grow your data career
 
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
