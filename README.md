@@ -49,6 +49,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 4. **Create Project Report
 
       - Create project report
+## Project Screenshot-
+<img width="1470" height="807" alt="Screenshot" src="https://github.com/user-attachments/assets/afa96801-df92-4988-8819-2196abfde531" />
 
 
  ### 🚀 Stay Connected
