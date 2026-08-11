@@ -51,12 +51,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
 
 
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-
  ### 🚀 Stay Connected
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, and more.
 
